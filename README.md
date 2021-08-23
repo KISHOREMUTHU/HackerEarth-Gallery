@@ -14,3 +14,11 @@
  - Dark and Light UI functionalites are also enabled
  - The app is successfully deployed using Android Studio and an apk is built as app-release.apk
 
+## GitHub Link
+ - https://github.com/KISHOREMUTHU/HackerEarth-Gallery
+
+## Firebase Link
+ - https://console.firebase.google.com/u/0/project/hacker-earth-gallery/overview
+
+## Application and Demo Video Link
+ - https://github.com/KISHOREMUTHU/HackerEarth-Gallery/tree/master/application_apk
